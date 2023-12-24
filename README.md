@@ -1,2 +1,2 @@
-# practice-python-
+# practice-python
 Python練習用
