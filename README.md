@@ -5,7 +5,7 @@ Python練習用
 ```bash
 python manage.py runserver
 ```
-- http://localhost:8000/
+- http://localhost:8000/polls/
 - ポート指定可能
 ```bash
 python manage.py runserver 8080
