@@ -10,3 +10,8 @@ python manage.py runserver
 ```bash
 python manage.py runserver 8080
 ```
+### Django adminサイト
+```bash
+python manage.py runserver
+```
+- http://localhost:8000/admin/
